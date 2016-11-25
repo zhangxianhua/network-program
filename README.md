@@ -4,4 +4,8 @@
 
 Create UDP send and receive thread for network message communication.
 
-2.
+2.boardDaemon
+
+For processing java mina message.
+
+3.
